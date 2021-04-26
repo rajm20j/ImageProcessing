@@ -27,123 +27,123 @@ Trainable params: 296,449
 Non-trainable params: 0
 _________________________________________________________________
 Epoch 1/60
-66/66 [==============================] - 409s 6s/step - loss: 0.2582 - precision: 0.9632 - recall: 0.9054 - accuracy: 3.1137e-08
+66/66 [==============================] - 373s 6s/step - loss: 0.0673 - precision: 0.9675 - recall: 0.9833 - accuracy: 7.7234e-09
 Epoch 2/60
-66/66 [==============================] - 359s 5s/step - loss: 0.0697 - precision: 0.9971 - recall: 0.9487 - accuracy: 8.4471e-08
+66/66 [==============================] - 366s 6s/step - loss: 0.0098 - precision: 0.9973 - recall: 0.9499 - accuracy: 1.4010e-07
 Epoch 3/60
-66/66 [==============================] - 366s 6s/step - loss: 0.0555 - precision: 0.9988 - recall: 0.9490 - accuracy: 5.5594e-08
+66/66 [==============================] - 366s 6s/step - loss: 0.0056 - precision: 0.9989 - recall: 0.9498 - accuracy: 1.3831e-07
 Epoch 4/60
-66/66 [==============================] - 383s 6s/step - loss: 0.0510 - precision: 0.9992 - recall: 0.9512 - accuracy: 5.0497e-08
+66/66 [==============================] - 352s 5s/step - loss: 0.0042 - precision: 0.9994 - recall: 0.9486 - accuracy: 2.2056e-08
 Epoch 5/60
-66/66 [==============================] - 380s 6s/step - loss: 0.0486 - precision: 0.9995 - recall: 0.9490 - accuracy: 1.1182e-07
+66/66 [==============================] - 364s 6s/step - loss: 0.0034 - precision: 0.9996 - recall: 0.9511 - accuracy: 5.1391e-08
 Epoch 6/60
-66/66 [==============================] - 416s 6s/step - loss: 0.0477 - precision: 0.9996 - recall: 0.9490 - accuracy: 2.4138e-08
+66/66 [==============================] - 376s 6s/step - loss: 0.0028 - precision: 0.9997 - recall: 0.9494 - accuracy: 1.4146e-08
 Epoch 7/60
-66/66 [==============================] - 449s 7s/step - loss: 0.0459 - precision: 0.9997 - recall: 0.9490 - accuracy: 4.7647e-08
+66/66 [==============================] - 367s 6s/step - loss: 0.0025 - precision: 0.9997 - recall: 0.9495 - accuracy: 1.7629e-08
 Epoch 8/60
-66/66 [==============================] - 457s 7s/step - loss: 0.0446 - precision: 0.9998 - recall: 0.9491 - accuracy: 1.6000e-08
+66/66 [==============================] - 344s 5s/step - loss: 0.0023 - precision: 0.9998 - recall: 0.9502 - accuracy: 4.8213e-08
 Epoch 9/60
-66/66 [==============================] - 460s 7s/step - loss: 0.0437 - precision: 0.9998 - recall: 0.9492 - accuracy: 8.9063e-08
+66/66 [==============================] - 314s 5s/step - loss: 0.0022 - precision: 0.9998 - recall: 0.9511 - accuracy: 2.6398e-08
 Epoch 10/60
-66/66 [==============================] - 453s 7s/step - loss: 0.0438 - precision: 0.9998 - recall: 0.9492 - accuracy: 4.2764e-08
+66/66 [==============================] - 312s 5s/step - loss: 0.0018 - precision: 0.9999 - recall: 0.9497 - accuracy: 0.0000e+00
 Epoch 11/60
-66/66 [==============================] - 451s 7s/step - loss: 0.0422 - precision: 0.9999 - recall: 0.9498 - accuracy: 8.1298e-08
+66/66 [==============================] - 312s 5s/step - loss: 0.0018 - precision: 0.9999 - recall: 0.9518 - accuracy: 1.8214e-07
 Epoch 12/60
-66/66 [==============================] - 444s 7s/step - loss: 0.0423 - precision: 0.9999 - recall: 0.9499 - accuracy: 1.2172e-07
+66/66 [==============================] - 337s 5s/step - loss: 0.0016 - precision: 0.9999 - recall: 0.9513 - accuracy: 1.6830e-08
 Epoch 13/60
-66/66 [==============================] - 480s 7s/step - loss: 0.0422 - precision: 0.9999 - recall: 0.9505 - accuracy: 1.5688e-07
+66/66 [==============================] - 363s 5s/step - loss: 0.0016 - precision: 0.9999 - recall: 0.9510 - accuracy: 2.0914e-08
 Epoch 14/60
-66/66 [==============================] - 490s 7s/step - loss: 0.0413 - precision: 0.9999 - recall: 0.9490 - accuracy: 4.6750e-08
+66/66 [==============================] - 359s 5s/step - loss: 0.0016 - precision: 0.9999 - recall: 0.9503 - accuracy: 1.4113e-07
 Epoch 15/60
-66/66 [==============================] - 471s 7s/step - loss: 0.0416 - precision: 0.9999 - recall: 0.9485 - accuracy: 1.5925e-08
+66/66 [==============================] - 365s 6s/step - loss: 0.0015 - precision: 0.9999 - recall: 0.9506 - accuracy: 1.8815e-07
 Epoch 16/60
-66/66 [==============================] - 457s 7s/step - loss: 0.0405 - precision: 0.9999 - recall: 0.9503 - accuracy: 1.5510e-07
+66/66 [==============================] - 362s 5s/step - loss: 0.0015 - precision: 0.9999 - recall: 0.9502 - accuracy: 3.7820e-07
 Epoch 17/60
-66/66 [==============================] - 445s 7s/step - loss: 0.0414 - precision: 0.9999 - recall: 0.9497 - accuracy: 4.6807e-08
+66/66 [==============================] - 374s 6s/step - loss: 0.0013 - precision: 1.0000 - recall: 0.9504 - accuracy: 6.5802e-07
 Epoch 18/60
-66/66 [==============================] - 441s 7s/step - loss: 0.0408 - precision: 1.0000 - recall: 0.9493 - accuracy: 2.0847e-07
+66/66 [==============================] - 390s 6s/step - loss: 0.0013 - precision: 1.0000 - recall: 0.9480 - accuracy: 8.2879e-07
 Epoch 19/60
-66/66 [==============================] - 435s 7s/step - loss: 0.0396 - precision: 0.9999 - recall: 0.9514 - accuracy: 3.3641e-08
+66/66 [==============================] - 389s 6s/step - loss: 0.0012 - precision: 1.0000 - recall: 0.9504 - accuracy: 1.8364e-06
 Epoch 20/60
-66/66 [==============================] - 471s 7s/step - loss: 0.0407 - precision: 1.0000 - recall: 0.9510 - accuracy: 2.4854e-07
+66/66 [==============================] - 368s 6s/step - loss: 0.0013 - precision: 1.0000 - recall: 0.9498 - accuracy: 3.6663e-06
 Epoch 21/60
-66/66 [==============================] - 459s 7s/step - loss: 0.0408 - precision: 1.0000 - recall: 0.9496 - accuracy: 1.5484e-07
+66/66 [==============================] - 363s 6s/step - loss: 0.0011 - precision: 1.0000 - recall: 0.9504 - accuracy: 3.6912e-06
 Epoch 22/60
-66/66 [==============================] - 467s 7s/step - loss: 0.0403 - precision: 1.0000 - recall: 0.9503 - accuracy: 4.7479e-08
+66/66 [==============================] - 363s 5s/step - loss: 0.0011 - precision: 1.0000 - recall: 0.9503 - accuracy: 4.9639e-06
 Epoch 23/60
-66/66 [==============================] - 506s 8s/step - loss: 0.0399 - precision: 1.0000 - recall: 0.9506 - accuracy: 2.8201e-08
+66/66 [==============================] - 362s 5s/step - loss: 0.0011 - precision: 1.0000 - recall: 0.9502 - accuracy: 6.8216e-06
 Epoch 24/60
-66/66 [==============================] - 464s 7s/step - loss: 0.0394 - precision: 1.0000 - recall: 0.9495 - accuracy: 1.4951e-07
+66/66 [==============================] - 366s 6s/step - loss: 0.0011 - precision: 1.0000 - recall: 0.9503 - accuracy: 7.1593e-06
 Epoch 25/60
-66/66 [==============================] - 442s 7s/step - loss: 0.0396 - precision: 1.0000 - recall: 0.9498 - accuracy: 7.7674e-08
+66/66 [==============================] - 363s 6s/step - loss: 0.0010 - precision: 1.0000 - recall: 0.9499 - accuracy: 8.8966e-06
 Epoch 26/60
-66/66 [==============================] - 420s 6s/step - loss: 0.0388 - precision: 1.0000 - recall: 0.9506 - accuracy: 1.2658e-07
+66/66 [==============================] - 356s 5s/step - loss: 9.6136e-04 - precision: 1.0000 - recall: 0.9499 - accuracy: 9.3810e-06
 Epoch 27/60
-66/66 [==============================] - 437s 7s/step - loss: 0.0391 - precision: 1.0000 - recall: 0.9509 - accuracy: 1.4062e-07
+66/66 [==============================] - 350s 5s/step - loss: 9.9944e-04 - precision: 1.0000 - recall: 0.9506 - accuracy: 1.5138e-05
 Epoch 28/60
-66/66 [==============================] - 504s 8s/step - loss: 0.0383 - precision: 1.0000 - recall: 0.9512 - accuracy: 1.8584e-07
+66/66 [==============================] - 350s 5s/step - loss: 9.8943e-04 - precision: 1.0000 - recall: 0.9488 - accuracy: 1.6517e-05
 Epoch 29/60
-66/66 [==============================] - 491s 7s/step - loss: 0.0384 - precision: 1.0000 - recall: 0.9517 - accuracy: 1.4024e-07
+66/66 [==============================] - 354s 5s/step - loss: 9.8346e-04 - precision: 1.0000 - recall: 0.9500 - accuracy: 1.7212e-05
 Epoch 30/60
-66/66 [==============================] - 400s 6s/step - loss: 0.0388 - precision: 1.0000 - recall: 0.9507 - accuracy: 9.7901e-08
+66/66 [==============================] - 426s 6s/step - loss: 8.9662e-04 - precision: 1.0000 - recall: 0.9496 - accuracy: 1.3377e-05
 Epoch 31/60
-66/66 [==============================] - 357s 5s/step - loss: 0.0383 - precision: 1.0000 - recall: 0.9508 - accuracy: 7.3248e-08
+66/66 [==============================] - 429s 6s/step - loss: 8.6617e-04 - precision: 1.0000 - recall: 0.9502 - accuracy: 1.2910e-05
 Epoch 32/60
-66/66 [==============================] - 368s 6s/step - loss: 0.0378 - precision: 1.0000 - recall: 0.9509 - accuracy: 2.4221e-07
+66/66 [==============================] - 408s 6s/step - loss: 9.0779e-04 - precision: 1.0000 - recall: 0.9507 - accuracy: 2.0924e-05
 Epoch 33/60
-66/66 [==============================] - 349s 5s/step - loss: 0.0384 - precision: 1.0000 - recall: 0.9505 - accuracy: 1.5485e-07
+66/66 [==============================] - 408s 6s/step - loss: 8.6667e-04 - precision: 1.0000 - recall: 0.9503 - accuracy: 1.6204e-05
 Epoch 34/60
-66/66 [==============================] - 366s 6s/step - loss: 0.0391 - precision: 1.0000 - recall: 0.9501 - accuracy: 2.4332e-07
+66/66 [==============================] - 364s 6s/step - loss: 8.2082e-04 - precision: 1.0000 - recall: 0.9503 - accuracy: 2.0969e-05
 Epoch 35/60
-66/66 [==============================] - 361s 5s/step - loss: 0.0379 - precision: 1.0000 - recall: 0.9519 - accuracy: 1.0459e-07
+66/66 [==============================] - 364s 6s/step - loss: 9.0463e-04 - precision: 1.0000 - recall: 0.9493 - accuracy: 3.2964e-05
 Epoch 36/60
-66/66 [==============================] - 375s 6s/step - loss: 0.0386 - precision: 1.0000 - recall: 0.9501 - accuracy: 1.7562e-07
+66/66 [==============================] - 355s 5s/step - loss: 8.2626e-04 - precision: 1.0000 - recall: 0.9484 - accuracy: 2.1877e-05
 Epoch 37/60
-66/66 [==============================] - 376s 6s/step - loss: 0.0385 - precision: 1.0000 - recall: 0.9508 - accuracy: 1.2170e-07
+66/66 [==============================] - 359s 5s/step - loss: 7.8368e-04 - precision: 1.0000 - recall: 0.9485 - accuracy: 1.8050e-05
 Epoch 38/60
-66/66 [==============================] - 359s 5s/step - loss: 0.0389 - precision: 1.0000 - recall: 0.9497 - accuracy: 1.8772e-07
+66/66 [==============================] - 351s 5s/step - loss: 7.6372e-04 - precision: 1.0000 - recall: 0.9510 - accuracy: 1.7802e-05
 Epoch 39/60
-66/66 [==============================] - 346s 5s/step - loss: 0.0385 - precision: 1.0000 - recall: 0.9490 - accuracy: 3.1261e-07
+66/66 [==============================] - 349s 5s/step - loss: 7.6902e-04 - precision: 1.0000 - recall: 0.9502 - accuracy: 1.9983e-05
 Epoch 40/60
-66/66 [==============================] - 346s 5s/step - loss: 0.0379 - precision: 1.0000 - recall: 0.9505 - accuracy: 1.8692e-07
+66/66 [==============================] - 319s 5s/step - loss: 7.8085e-04 - precision: 1.0000 - recall: 0.9512 - accuracy: 1.7886e-05
 Epoch 41/60
-66/66 [==============================] - 335s 5s/step - loss: 0.0384 - precision: 1.0000 - recall: 0.9512 - accuracy: 1.3723e-07
+66/66 [==============================] - 317s 5s/step - loss: 7.3801e-04 - precision: 1.0000 - recall: 0.9509 - accuracy: 1.7412e-05
 Epoch 42/60
-66/66 [==============================] - 339s 5s/step - loss: 0.0383 - precision: 1.0000 - recall: 0.9507 - accuracy: 2.3331e-07
+66/66 [==============================] - 317s 5s/step - loss: 8.0593e-04 - precision: 1.0000 - recall: 0.9497 - accuracy: 1.2506e-05
 Epoch 43/60
-66/66 [==============================] - 350s 5s/step - loss: 0.0382 - precision: 1.0000 - recall: 0.9503 - accuracy: 1.7172e-07
+66/66 [==============================] - 316s 5s/step - loss: 6.6239e-04 - precision: 1.0000 - recall: 0.9530 - accuracy: 1.3072e-05
 Epoch 44/60
-66/66 [==============================] - 337s 5s/step - loss: 0.0385 - precision: 1.0000 - recall: 0.9491 - accuracy: 1.9001e-07
+66/66 [==============================] - 320s 5s/step - loss: 6.6185e-04 - precision: 1.0000 - recall: 0.9508 - accuracy: 1.3293e-05
 Epoch 45/60
-66/66 [==============================] - 342s 5s/step - loss: 0.0377 - precision: 1.0000 - recall: 0.9500 - accuracy: 2.2927e-07
+66/66 [==============================] - 328s 5s/step - loss: 6.6897e-04 - precision: 1.0000 - recall: 0.9495 - accuracy: 1.3566e-05
 Epoch 46/60
-66/66 [==============================] - 361s 5s/step - loss: 0.0370 - precision: 1.0000 - recall: 0.9516 - accuracy: 1.4356e-07
+66/66 [==============================] - 322s 5s/step - loss: 6.7185e-04 - precision: 1.0000 - recall: 0.9490 - accuracy: 1.1060e-05
 Epoch 47/60
-66/66 [==============================] - 359s 5s/step - loss: 0.0381 - precision: 1.0000 - recall: 0.9503 - accuracy: 1.9856e-07
+66/66 [==============================] - 332s 5s/step - loss: 6.6967e-04 - precision: 1.0000 - recall: 0.9502 - accuracy: 1.6212e-05
 Epoch 48/60
-66/66 [==============================] - 334s 5s/step - loss: 0.0384 - precision: 1.0000 - recall: 0.9497 - accuracy: 1.6754e-07
+66/66 [==============================] - 331s 5s/step - loss: 6.3803e-04 - precision: 1.0000 - recall: 0.9506 - accuracy: 1.0408e-05
 Epoch 49/60
-66/66 [==============================] - 350s 5s/step - loss: 0.0374 - precision: 1.0000 - recall: 0.9505 - accuracy: 1.9957e-07
+66/66 [==============================] - 436s 7s/step - loss: 6.7410e-04 - precision: 1.0000 - recall: 0.9468 - accuracy: 1.1012e-05
 Epoch 50/60
-66/66 [==============================] - 335s 5s/step - loss: 0.0371 - precision: 1.0000 - recall: 0.9524 - accuracy: 1.5477e-07
+66/66 [==============================] - 385s 6s/step - loss: 6.4449e-04 - precision: 1.0000 - recall: 0.9506 - accuracy: 1.0251e-05
 Epoch 51/60
-66/66 [==============================] - 395s 6s/step - loss: 0.0377 - precision: 1.0000 - recall: 0.9504 - accuracy: 3.0938e-07
+66/66 [==============================] - 332s 5s/step - loss: 6.0736e-04 - precision: 1.0000 - recall: 0.9505 - accuracy: 7.4799e-06
 Epoch 52/60
-66/66 [==============================] - 452s 7s/step - loss: 0.0375 - precision: 1.0000 - recall: 0.9494 - accuracy: 1.4530e-07
+66/66 [==============================] - 325s 5s/step - loss: 5.9137e-04 - precision: 1.0000 - recall: 0.9517 - accuracy: 7.5716e-06
 Epoch 53/60
-66/66 [==============================] - 449s 7s/step - loss: 0.0381 - precision: 1.0000 - recall: 0.9489 - accuracy: 8.9094e-08
+66/66 [==============================] - 333s 5s/step - loss: 5.8625e-04 - precision: 1.0000 - recall: 0.9498 - accuracy: 7.7593e-06
 Epoch 54/60
-66/66 [==============================] - 447s 7s/step - loss: 0.0374 - precision: 1.0000 - recall: 0.9507 - accuracy: 1.9843e-07
+66/66 [==============================] - 455s 7s/step - loss: 5.9144e-04 - precision: 1.0000 - recall: 0.9490 - accuracy: 7.0282e-06
 Epoch 55/60
-66/66 [==============================] - 444s 7s/step - loss: 0.0374 - precision: 1.0000 - recall: 0.9517 - accuracy: 1.8518e-07
+66/66 [==============================] - 392s 6s/step - loss: 5.7326e-04 - precision: 1.0000 - recall: 0.9482 - accuracy: 6.2772e-06
 Epoch 56/60
-66/66 [==============================] - 446s 7s/step - loss: 0.0373 - precision: 1.0000 - recall: 0.9500 - accuracy: 1.4928e-07
+66/66 [==============================] - 318s 5s/step - loss: 5.7270e-04 - precision: 1.0000 - recall: 0.9503 - accuracy: 5.4417e-06
 Epoch 57/60
-66/66 [==============================] - 485s 7s/step - loss: 0.0377 - precision: 1.0000 - recall: 0.9497 - accuracy: 9.6418e-08
+66/66 [==============================] - 318s 5s/step - loss: 6.0530e-04 - precision: 1.0000 - recall: 0.9501 - accuracy: 5.8237e-06
 Epoch 58/60
-66/66 [==============================] - 565s 9s/step - loss: 0.0369 - precision: 1.0000 - recall: 0.9505 - accuracy: 3.6827e-07
+66/66 [==============================] - 319s 5s/step - loss: 5.6066e-04 - precision: 1.0000 - recall: 0.9505 - accuracy: 3.7344e-06
 Epoch 59/60
-66/66 [==============================] - 514s 8s/step - loss: 0.0375 - precision: 1.0000 - recall: 0.9500 - accuracy: 1.3374e-07
+66/66 [==============================] - 321s 5s/step - loss: 5.4448e-04 - precision: 1.0000 - recall: 0.9503 - accuracy: 2.7964e-06
 Epoch 60/60
-66/66 [==============================] - 450s 7s/step - loss: 0.0374 - precision: 1.0000 - recall: 0.9500 - accuracy: 7.6201e-08
-<tensorflow.python.keras.callbacks.History at 0x2342e6f7f70>
+66/66 [==============================] - 319s 5s/step - loss: 5.2568e-04 - precision: 1.0000 - recall: 0.9498 - accuracy: 3.6265e-06
+<tensorflow.python.keras.callbacks.History at 0x1dc15ed2850>
